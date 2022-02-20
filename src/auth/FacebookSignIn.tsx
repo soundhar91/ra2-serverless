@@ -11,7 +11,7 @@ declare global {
   }
 }
 
-const FACEBOOK_CLIENT_ID = process.env.REACT_APP_FACEBOOK_CLIENT_ID
+const FACEBOOK_CLIENT_ID = '1195076384357024'
 
 export interface FacebookSignInProps {}
 

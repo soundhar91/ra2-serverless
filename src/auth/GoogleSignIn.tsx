@@ -5,7 +5,7 @@ import Button from '@material-ui/core/Button'
 import { useStyles } from './components/styles'
 import GoogleIcon from './components/GoogleIcon'
 
-const GOOGLE_CLIENT_ID = process.env.REACT_APP_GOOGLE_CLIENT_ID
+const GOOGLE_CLIENT_ID = '459932288126-2a6440f4qfev7sv43j73lrim9r8cjmn8.apps.googleusercontent.com'
 
 export interface GoogleSignInProps {}
 
